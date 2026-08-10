@@ -9,11 +9,11 @@ def game():
             hiscore = int(hiscore)
         else:
             hiscore = 0
-    print(f"Your score: {score}")
+    print(f"Your score: { score}")
     if score>hiscore:
         with open("hiscore.txt", "w") as f:
             f.write(str(score))
-    return score
+    # return score
     
     
 game()
