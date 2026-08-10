@@ -1,0 +1,2 @@
+with open("f1.txt") as f:
+    content1 = f.read()
