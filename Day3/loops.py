@@ -7,7 +7,7 @@ while(i<len(l)):       #loop in list
 
 
 for i in range(25):
-    print(i)
+    print(i)    # print 0 to 24
 
 for i in range(25):
     if(i==12):
