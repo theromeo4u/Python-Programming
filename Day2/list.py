@@ -5,3 +5,4 @@ friends.append("Ishwar")  #add at the end of list
 friends.insert(3,"Ashok") #insert to the mentioned location
 friends.sort
 print(friends)
+#12345
