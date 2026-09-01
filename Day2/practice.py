@@ -1,3 +1,5 @@
+#practice 1 problem 
+
 fruits=[]
 
 fruit1 = input("Enter Fruit name: ")
