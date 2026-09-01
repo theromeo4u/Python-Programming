@@ -43,3 +43,7 @@ num6 = int(input("Enter Hindi word: "))
 s.add(num6)
 
 print(s)
+
+
+
+#print(s)
