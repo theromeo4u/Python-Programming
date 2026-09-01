@@ -1,3 +1,6 @@
+#default parameters 
+
+
 def fun1(name,ending="Thank You"):
     print(f"Welcome, {name}")
     print(ending)
